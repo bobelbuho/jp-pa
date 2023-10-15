@@ -131,7 +131,7 @@
     top: 0;
     left: 0;
   }
-  
+  /* logo principal */
   .box .logo-2 {
     width: 74px;
     object-fit: cover;
@@ -139,6 +139,7 @@
     height: 78px;
     top: 0;
     left: 0;
+    border-radius: 30px;
   }
   
   .box .text-wrapper-2 {
