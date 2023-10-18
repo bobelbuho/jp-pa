@@ -1,0 +1,29 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1050px;
+  height: 330px;
+}
+.la-plateforme-de {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--barre-de-recherche);
+  font-size: 32px;
+  position: absolute;
+  top: 34px;
+  left: 582px;
+  letter-spacing: 0.15em;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 448px;
+  height: 237px;
+  text-shadow: 5px 4px 5px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #1e1d22;
+}
+.group-parent {
+  position: relative;
+  width: 100%;
+  height: 330px;
+}

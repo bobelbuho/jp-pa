@@ -1,0 +1,131 @@
+.bouttons-child,
+.publier-un-trajet {
+  border: 0;
+  font-weight: 200;
+  font-family: var(--navbar);
+  font-size: var(--navbar-size);
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 194px;
+  height: 28px;
+}
+.publier-un-trajet {
+  left: 46px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 250px;
+  height: 61px;
+}
+.vector-icon {
+  position: absolute;
+  height: 50.75%;
+  width: 10.14%;
+  top: 0;
+  right: 89.86%;
+  bottom: 49.25%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.people,
+.publier-un-trajet-parent {
+  position: absolute;
+  top: 0;
+  left: 233px;
+  width: 296px;
+  height: 67px;
+}
+.people {
+  top: 4px;
+  left: 36px;
+  width: 4px;
+  height: 18px;
+  overflow: hidden;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 32.06%;
+  width: 20.29%;
+  top: 19.35%;
+  right: 59.3%;
+  bottom: 48.58%;
+  left: 20.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 100%;
+  width: 63.27%;
+  top: 0;
+  right: 36.73%;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon3 {
+  height: 58.06%;
+  width: 8.16%;
+  top: 22.58%;
+  right: 0;
+  bottom: 19.35%;
+  left: 91.84%;
+}
+.bouttons,
+.people-parent {
+  position: absolute;
+  top: 3px;
+  left: 573px;
+  width: 49px;
+  height: 31px;
+}
+.bouttons {
+  top: 25px;
+  left: 338px;
+  width: 622px;
+  height: 67px;
+}
+.logo-1-icon {
+  top: 0;
+  left: 0;
+  border-radius: 77px;
+  width: 74px;
+  height: 78px;
+  object-fit: cover;
+}
+.jeppey,
+.logo,
+.logo-1-icon {
+  position: absolute;
+}
+.jeppey {
+  top: 18px;
+  left: 85px;
+  display: inline-block;
+  width: 168px;
+  height: 39px;
+}
+.logo {
+  text-decoration: none;
+  top: 0;
+  left: 0;
+  width: 253px;
+  height: 78px;
+  color: inherit;
+}
+.barre-de-navigation {
+  margin: 0;
+  position: relative;
+  width: 100%;
+  height: 92px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-istok-web);
+}

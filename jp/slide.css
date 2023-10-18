@@ -1,0 +1,115 @@
+.slide-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f9cb30;
+  width: 1050px;
+  height: 528px;
+}
+.icon {
+  position: absolute;
+  top: 80px;
+  left: 5px;
+  width: 396px;
+  height: 453px;
+  object-fit: cover;
+}
+.icon-cloud {
+  position: absolute;
+  height: 10.48%;
+  width: 6.48%;
+  top: 29.57%;
+  right: 21.94%;
+  bottom: 59.95%;
+  left: 71.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-cloud-sunny,
+.icon-cloud1,
+.icon-cloud2,
+.icon-cloud3,
+.icon-cloud4,
+.icon-cloud5,
+.icon-cloud6 {
+  position: absolute;
+  height: 10.48%;
+  width: 6.48%;
+  top: 12.69%;
+  right: 64.99%;
+  bottom: 76.83%;
+  left: 28.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-cloud-sunny,
+.icon-cloud2,
+.icon-cloud3,
+.icon-cloud4,
+.icon-cloud5,
+.icon-cloud6 {
+  top: 54.9%;
+  right: 18.89%;
+  bottom: 34.62%;
+  left: 74.63%;
+}
+.icon-cloud-sunny,
+.icon-cloud3,
+.icon-cloud4,
+.icon-cloud5,
+.icon-cloud6 {
+  right: 53.18%;
+  left: 40.34%;
+}
+.icon-cloud-sunny,
+.icon-cloud4,
+.icon-cloud5,
+.icon-cloud6 {
+  top: 7.06%;
+  right: 5.94%;
+  bottom: 82.46%;
+  left: 87.58%;
+}
+.icon-cloud-sunny,
+.icon-cloud5,
+.icon-cloud6 {
+  top: 29.57%;
+  right: 45.27%;
+  bottom: 59.95%;
+  left: 48.25%;
+}
+.icon-cloud-sunny,
+.icon-cloud6 {
+  top: 1.05%;
+  right: 37.47%;
+  bottom: 88.47%;
+  left: 56.06%;
+}
+.icon-cloud-sunny {
+  height: 9.75%;
+  width: 6.02%;
+  top: 3.38%;
+  right: 80.93%;
+  bottom: 86.87%;
+  left: 13.05%;
+}
+.jeppey-transforme-la {
+  position: absolute;
+  top: 52px;
+  left: 536px;
+  display: inline-block;
+  width: 395px;
+  height: 294px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.slide {
+  position: relative;
+  width: 100%;
+  height: 533px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--barre-de-recherche);
+}
